@@ -1,4 +1,4 @@
 StreamDrums-Project
 ===================
 
-Music for drums and computer
+Music for drums and computer in real time
